@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Coky</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ingrese_nombre">Ingrese Nombre</string>
+    <string name="nombre">Nombre</string>
+    <string name="usuario">Usuario</string>
+    <string name="ingrese_usuario">Ingrese usuario</string>
+    <string name="password">Password</string>
+    <string name="ingrese_contrase_a">Ingrese contraseña</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="registrarse_">Registrarse!</string>
+    <string name="title_activity_registros">MainActivity</string>
+    <string name="nueva_password">Nueva Password</string>
+    <string name="confirme_password_antigua">Confirme Password Antigua</string>
+    <string name="ingrese_nueva_password_aqui_">Ingrese nueva password aqui!</string>
+    <string name="ingresa_nuevo_usuario_aqui_">Ingresa nuevo usuario aqui!</string>
+    <string name="ingrese_password_antigua_aqui_">Ingrese password antigua aqui!</string>
+    <string name="guardar">Guardar</string>
+    <string name="ingresa_nuevo_nombre_aqui_">Ingresa nuevo nombre aqui!</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="button">Button</string>
+    <string name="title_activity_apli">ApliActivity</string>
+    <string name="email">email</string>
+    <string name="ingrese_email">Ingrese email</string>
+    <string name="ingrese_nuevo_email">Ingrese nuevo email</string>
+    <string name="ingrese_password">Ingrese password</string>
+    <string name="registrese">REGISTRESE</string>
+    <string name="ingrese_nuevo_usuario_aqui_">Ingrese nuevo usuario aqui!</string>
+    <string name="confirme_antigua_password">Confirme antigua password</string>
+    <string name="ingrese_nuevo_email_aqui_">Ingrese nuevo email aqui!</string>
+    <string name="ingrese_antigua_password">Ingrese antigua password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="iniciar_sesion">INICIAR SESION</string>
+    <string name="login">Login</string>
+    <string name="activar">Activar</string>
+    <string name="telefono">Telefono</string>
+    <string name="desactivar_cuenta_">Desactivar cuenta?</string>
+    <string name="ir_a_app">Ir a App</string>
+    <string name="nuevo_usuario">Nuevo Usuario</string>
+    <string name="nuevo_nombre">Nuevo Nombre</string>
+    <string name="nuevo_email">Nuevo email</string>
+    <string name="ingrese_nueva_password">Ingrese nueva password</string>
+    <string name="deslizar">Deslizar</string>
+
+</resources>
