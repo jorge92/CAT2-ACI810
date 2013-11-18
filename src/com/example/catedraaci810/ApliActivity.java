@@ -43,6 +43,19 @@ startActivity(profile);
 
 
 		}
+	
+	
+	public void onApp3(View view) {		
+
+
+		Intent sett = new Intent(this, SettActivity.class);
+
+
+		startActivity(sett);
+
+
+
+		}
 		
 
 

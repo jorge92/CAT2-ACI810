@@ -24,10 +24,29 @@
         android:id="@+id/buttonApi2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_alignRight="@+id/buttonApi1"
         android:onClick="onApp2"
         android:text="@string/logout" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/buttonApi1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/buttonApi1"
+        android:layout_marginBottom="40dp"
+        android:onClick="onApp3"
+        android:text="@string/settings" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonApi2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="87dp"
+        android:src="@android:drawable/sym_def_app_icon" android:contentDescription="@string/todo"/>
 
 </RelativeLayout>
